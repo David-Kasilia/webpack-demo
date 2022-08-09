@@ -19,13 +19,12 @@ In this exercise it involves building a simple powerful webpack boilerplate.
 <ol>
 <li>Created a Github Repository</li>
 <li>Cloned the created repository to my local machine</li>
+<li>Setup the project by creating a new directory and initializing it with npm using the official webpack documentation.</li>
+<li>Add the HTML from both the documentation and the project requirements.</li>
+<li>Added an HTML template for the project from the requirements and modified the webpack.config.js.</li>
+<li>Added style from the stylesheet following the loading CSS guide.</li>
+<li>Set up a local dev server and tested it.</li>
 </ol>
-
-1. Setup the project by creating a new directory and initializing it with npm using the official webpack documentation.
-2. Add the HTML from both the documentation and the project requirements.
-3. Added an HTML template for the project from the requirements and modified the webpack.config.js.
-4. Added style from the stylesheet following the loading CSS guide.
-5. Set up a local dev server and tested it.
 
 
 # Run Tests
